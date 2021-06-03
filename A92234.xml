@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for the bill for improvement of the woollen manufactures, and preventing exportation of wool, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 38KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92234</idno><idno type="EEBO-CITATION">45578414</idno>
+  <idno type="VID">172336</idno>
+  <idno type="EEBO-PROQUEST">2248536437</idno>
+  
+            <idno type="STC">Wing R512A</idno>
+            <idno type="STC">ESTC R182426</idno>
+            <idno type="OCLC">45578414</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92234)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172336)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2625:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for the bill for improvement of the woollen manufactures, and preventing exportation of wool, &amp;c.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Woolen goods industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Wool industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="reasons">
+            <pb facs="tcp:172336:1"/>
+            <head>
+               <hi>Reasons</hi> for the <hi>Bill</hi> for <hi>Improvement</hi> of the <hi>Woollen Manufactures,</hi> and preventing <hi>Exportation</hi> of <hi>Wool,</hi> &amp;c.</head>
+            <head type="sub">The Preamble sets forth the Causes of the general decay of the Clothing Trade.</head>
+            <p>SEveral Acts have indeavoured to advance it, as the main Commodity that supports this King<g ref="char:EOLhyphen"/>dom; sets the Poor to Work, and will enable the Tenant to pay better Rates for Farms and Te<g ref="char:EOLhyphen"/>nants to his Landlord: Yet hitherto none could put it into such a posture, as to flourish near that degree it is capable of, if managed to the best ad<g ref="char:EOLhyphen"/>vantage. The Act 5 and 6. <hi>Ed.</hi> 6. <hi>c.</hi> 6. upon ma<g ref="char:EOLhyphen"/>ture advice and with the consent of all concern'd in the Clothing Trade as is therein exprest, came the nearest that desired end; by appointing the Mayor and Bayliffs, <hi>&amp;c.</hi> in Corporations to have Searchers to view Cloth if 'twere well Wrought and Dyed; they were to put on their several Seals to testify how it was: And although 10 <hi>l.</hi> Penalty is upon the Mayor if they neglect it, and 5 <hi>l.</hi> on him that refuses to be a Searcher, yet this Act has long been disused: which shews the necessity of a more certain Method, where it shall be the sole business and private Interest of Overseers, to take care the Laws be executed; Or the Credit of our Woollen Manufactures will never revive abroad, much less exceed what they formerly had.</p>
+            <p>The Reasons of the decay are the false making of Cloth, by intermixing bad stuff with Wool, as Flocks, Pinions, Lambs Wool, and the like de<g ref="char:EOLhyphen"/>ceitful stuff forbid by many Statutes, 4 <hi>Ed.</hi> 4. <hi>c.</hi> 1.1. <hi>R.</hi> 3. <hi>c.</hi> 8.6. <hi>H.</hi> 8. <hi>c.</hi> 9.3. and 4. <hi>Ed.</hi> 6. <hi>c.</hi> 2.21. <hi>Jac. c.</hi> 18. Thus striving out of Cove<g ref="char:EOLhyphen"/>tousness or Idleness rather to make many then good Cloths, pretending they do it to humour the several fancies of each Market, when no doubt he has most buyers whose Cloth is cheap and wears best which induces all to make ufe of it: 'tis ra<g ref="char:EOLhyphen"/>ther the number of constant buyers that causes the greater vent of a Commodity, then the speedy Consumption by it's been soon woren out or de<g ref="char:EOLhyphen"/>cayed: upon which the wary buyer first and after all by example quit using of it, and tho variety in the Fashion may support some sorts of Cloth for a while, yet whole Kingdoms at length find<g ref="char:EOLhyphen"/>ing the slightness upon tryal of it, forbear to buy any or but little in comparison, this puts the Mer<g ref="char:EOLhyphen"/>chants upon inventing so many new sorts like Drugeds, <hi>&amp;c.</hi> to support by the novelty their sinking Trade. Besides true close wove Cloth does consume much more Wool, and yet need not be therefore heavy and combersom but by the fineness or courseness of the Wool and Thred adapted to the use of all Climates.</p>
+            <p>Further our dying of bad Colours makes Fo<g ref="char:EOLhyphen"/>reigners rather desire white Cloths, many of which are exported, by which the Cloth-worker and Dyer both lose as well as the Nation that part of the Manufacturing. Cloth-workers and Dyers have made very great Complaints to the Parliament against the Exportation of Whites; but they may thank themselves, for did they do their work truly 'twould not be so.</p>
+            <p>In bad Spinning many hundred weight of Yarn is brought into Markets more fit to be burnt then put into Cloth, <hi>&amp;c.</hi>
+            </p>
+            <p>So the Weaving is loose and false and will con<g ref="char:EOLhyphen"/>tinue without some particularly to look after the preventing of it. The fulling is ill perform'd, and the grease not scowered out; the Aulnegers Duty left off and abused by screwing Farmers, since alienated from the Crown; though of ex<g ref="char:EOLhyphen"/>cellent use formerly, by keeping Clothiers to the making of Cloth up to the Statutes.</p>
+            <p>Besides exporting Wool and Fullers-earth, with other like Materials for making of Cloth, opens to Foreigners an easie cheaper way to make Cloth, for they taking more pains and care to Manu<g ref="char:EOLhyphen"/>facture theirs truely, do get the Trade from us with our own Wool; which is exported to them because Wool lyes upon Peoples hands here, for want of the vent it formerly had through Cloth exported; so as Foreigners buying it in greater quantities do it also at a lower price then what<g ref="char:EOLhyphen"/>ever Clothiers here are forced to give the Re<g ref="char:EOLhyphen"/>tailers, who pretend its dear, when themselves by exporting have first render'd it scarce. Thus their Foreign Cloth undersells ours at our own Markets abroad, and they also set up new Marts for themselves in other places with the help of our Wool, without which they could not do it. The Clothier or Grower will hardly export Wool, but only the Retailers whose gains are only in selling it again. Retailers necessitate that the Clothiers cannot make so good nor cheap Cloths, for the most useful and best part of the Wool is always convey'd abroad; for they must humour the Foreign Markets where they can vend vast quantities at once: whereas the Clothier at home has the refuge forced upon him at a dear price, so mixt and disguised that he cannot if he would be sure to make good and cheap Cloths, while Retailers buying their Wool <hi>English</hi> and <hi>Irish</hi> in the Fleece make three or four sorts of it
+<pb n="2" facs="tcp:172336:2"/>by parting of it, the worst of which they sell at above the first cost; and other sorts they sell three, four, six and eight <hi>d.</hi> a pound above what it first cost. So the Engrossers of <hi>Spanish</hi> Wooll in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> do raise the price of that Wool from Two to Eight Pence <hi>per</hi> Pound. Is it therefore fit any should have the buying of Wool, but the Clothier, Wea<g ref="char:EOLhyphen"/>ver, Spinner, Comber, or other known Worker of the same; who though Wool should cost them Twelve Pence <hi>per</hi> Pound to the Grower, yet would have it cheaper, then as now from the Re<g ref="char:EOLhyphen"/>tailers.</p>
+            <p>But to prevent the foresaid Inconveniences say they, will prejudice the Poor, who cannot have Wool sorted ready to their hand to work; but what hinders that the Grower may not sort his Wool, and sell it out in small Parcels, as well as the Retailers: and this Bill is design'd to provide that the poor Clothiers may have Wool at the first rate and hand.</p>
+            <p>'Tis computed there has been within the Me<g ref="char:EOLhyphen"/>mory of Man exported above 300000 Cloths a Year, but of late not 50000. The Counties of <hi>Suffolk, Norfolk, Sussex</hi> and <hi>Kent</hi> have made Cloth for Exportation only upwards of Thirty Thousand Cloths a Year, and such Cloths as made a great Consumption of Wool, and imploy'd many hands; for the Cloths made there were from 23 to 33 Yards long, and to weigh from 64 to 90 Pounds a Cloth, and now not 1000 Cloths a Year. The Towns of <hi>Reading, Newbery</hi> and <hi>Basingstoak</hi> have made above 20000 of Cloths 30 Yards long and 90 Pounds weight, now scarce any made there, the Counties of <hi>Devon</hi> and <hi>Cornwall</hi> have made like numbers from 25 to 30 Yards long 6 quar<g ref="char:EOLhyphen"/>ters broad and weight above 60 Pounds, and now very little made there. And in many Towns and Parishes in <hi>Somerset-shire</hi> great quantities have been made for the Merchant of Cloth from 25 to 30 yards 6 quarters, and to weigh above 60 pounds and none at all. Which Cloths kept Thousands at Work, made a vast Consumption of Wool, and thereby kept up the price of it which made the Tenant pay his Landlord well, since the decay of the Woollen Manufactures, Land is fal<g ref="char:EOLhyphen"/>len, Subjects impoverisnt.</p>
+            <p>The foresaid shews there is a decay at home and to satisfy 'tis also as to the Exportations. The <hi>Hambrough</hi> Company have exported 60000 Cloths yearly, and of late not 15000. The <hi>Turky</hi> Company have shipt out 40000 Cloths a Year, and now not half, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o all Trading Com<g ref="char:EOLhyphen"/>pany sproportionably as vast quantities to <hi>Russia &amp;c.</hi> all which is lost because Cloth is not made accord<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the Statutes, and if the Cloth were made <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the Statutes as we propose, no Nation can <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> sell us or please the several Markets bet<g ref="char:EOLhyphen"/>ter.</p>
+            <p>And tho in <hi>Yorkshire, Col<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hester, &amp;c.</hi> perhaps a <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> number of Cloths are made then for<g ref="char:EOLhyphen"/>merly, yet that is only a private advantage comes to them by the particular Acts for their regula<g ref="char:EOLhyphen"/>tion; but does not amount in the whole King<g ref="char:EOLhyphen"/>dom to the sixth part of so great an Exportation as was Forty Years agone: so that without great Penalties be put upon making bad Cloths, and some Commissioners appointed to levy and see things be perform'd, the Trade is not like to re<g ref="char:EOLhyphen"/>cover.</p>
+            <p>There is no Law for correcting the Abuses in Rowing and Shearing, and though there are for Straining, yet Cloth is strain'd prodigiously, as one yard in five in length, and in breadth above a quarter and a half, which weakens the Cloth; and none by Law deputed to look after it. Even in the Acts for the West-riding of <hi>Yorkshire</hi> in King <hi>Charles</hi> the <hi>Second</hi>'s time, there is no hin<g ref="char:EOLhyphen"/>drance for Cloth-workers, working of them falsly or sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ining; and so in the City of <hi>London</hi> for <hi>Worcester</hi> and <hi>Salisbury</hi> Whites: that when they come to Foreign Markets, the buyer crys out false <hi>English</hi> Cloth.</p>
+            <p>Trading Companies lay great Impositions on Woollen Manufactures by which they become dear abroad; <hi>Hambrough</hi> Company 22 <hi>d.</hi> on a long and 20 <hi>d.</hi> on a short Cloth, 12 <hi>d.</hi> on a <hi>Spanish</hi> and 6 <hi>d.</hi> on a Searge: and so others do the like. and this levying of Money on the Subject is a<g ref="char:EOLhyphen"/>gainst Law.</p>
+            <p>Want of Statutes for new Draperies as <hi>Spanish</hi> Cloth is the cause Clothiers make as they please, and put in Flocks Pinions and Lambs Wool; which deceitful stuffs are against Law as to other Statutes Cloths.</p>
+            <p>Companies hindring their Members to Trade out of Mart Towns, hinders the vent of Wool<g ref="char:EOLhyphen"/>len Manufactures, because Commodities should come more in sight of Princes Courts, <hi>&amp;c.</hi> to tempt such buyers as will not take the pains to send far for Cloth, especially whilst so false made as it is.</p>
+            <p>Great discouragement to the Returns upon Woollen Manufactures in the n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w Book of Rates to the prejudice of their vending abroad, for many Goods imported do hinder the vent of Re<g ref="char:EOLhyphen"/>turns made upon Woollen Manufactures. As Calicoes, raw and wrought Silks from the <hi>Indies, France</hi> and other places: which do by rea<g ref="char:EOLhyphen"/>son of their Cheapnes obstruct the vending of Linnen from <hi>Germany,</hi> and raw Silks from <hi>Turky.</hi>
+            </p>
+            <p>
+               <hi>Listly,</hi> Excessive Customs some Princes do lay upon our Woollen Manufactures, as from 25 to 30 <hi>per Cent.</hi> makes them the dearer abroad.</p>
+         </div>
+         <div type="bill">
+            <pb n="3" facs="tcp:172336:2"/>
+            <head>The Bill sets forth the proper Remedies for recovery of the Woollen Trade.</head>
+            <p n="1">1st. <hi>Commissioners appointed to look after Wooll and Woollen Manufactures with necessary Officers under them.</hi>
+            </p>
+            <p>Why not Commissioners to see to the export<g ref="char:EOLhyphen"/>ing with all advantages our own native Commodi<g ref="char:EOLhyphen"/>ties, as well as to manage and receive the Customs upon imported Foreign ones; for without a spring of Execution, Laws will soon dye as ex<g ref="char:EOLhyphen"/>perience shews: and without the four Views pro<g ref="char:EOLhyphen"/>posed hereafter to pass upon Cloth, <hi>&amp;c.</hi> no Man alive can be secure it is truly Manufactured. As <hi>First</hi> in the raw Thred to see if it be even spun and close struck in the Weaving of it (as it is at <hi>Celchester</hi> by Masters, Wardens and Assistants from which they have gained a Trade) then 'twill last longer, consume more Wool, and be fit for seve<g ref="char:EOLhyphen"/>ral other uses then now it is; Yet need not be too thicks heavy or combersom to the wearer, but humour the Fancy or Tashion of each Country, as well if not better then now they do. 2ly, Out of the Mill (which performs the Aulnegers Duty) to see Cloth is well scowred and tucked, then 'twill not be lyable to be Worm or Moth eaten; for those will not touch Cloth that has no dead Wool in it, and has the Grease and Oyl clearly got out of it. 3ly, To see it at the Cloth-workers, (which is agreeable to the Stat. 5 and 6. <hi>Ed.</hi> 6. in Corporations) if its well Rowed and Shorn; that is rises thick, and is even and short, which makes it wear longer without growing bare forces off rain makes it look even, fine and glossy, though not prest with hot Boards, which harshes and de<g ref="char:EOLhyphen"/>cays the Wool. 4thly, a search at the Dyers (which is also according to the foresaid Statute) to see his Colours be good and lasting, and such as will not decay Cloth. No buyer would be willing to be deceived in any of these occasions of searching; and this remedy of all falseness in Cloth is most easy, and done with a great deal of quiet; and so small a Duty as shall be laid on each of the four Views, will defray the whole Charge of Officers, and the Management of the Woollen Manufactures. Some Merchants raise mighty Fortunes by putting their own Seals on and waranting such Cloths, which hold good in the proof, drew a great Trade: These four search Seals being put will be a much greater assurance of good Cloth; and consequently bring it into the highest Estimation abroad; and with the re<g ref="char:EOLhyphen"/>gulation propos'd ours will be preferrable to the Cloth of any Nation; since none have the means to arrive at the same perfection as we may by our Wool, without which others cannot exceed us: this would make such a vast Consumption of Wool as none would remain Unmanufactured at the Years end, and though it would of it self rise to 12 <hi>d. per</hi> Pound, yet 'twould be cheaper then now to the Clothiers by which Cloth would not cost so much, tho much better; as now a deceitful useless one does, which is very considerable.</p>
+            <p>Also there is a latitude left in this Bill for Commissioners to put such standard to new in<g ref="char:EOLhyphen"/>vented Cloths, which they shall find by consulting the Merchants may be proper to be made for to satisfy the fancy of any Market: so as the Mer<g ref="char:EOLhyphen"/>chant needs not fear being hindered from sup<g ref="char:EOLhyphen"/>plying any Foreigu Customer with such a sort of Cloth as sutes their particular humour; only the search will then pass on them to see they come up to such perfection as they pretend to, that the proof may answer the buyers expectations abroad.</p>
+            <p>If Wool as is hereby proposed rises of it self to be worth in a way of Trade 12 <hi>d.</hi> a Pound 'twill not then be worth any Mans while to export it, which is a thing so much desired to be pre<g ref="char:EOLhyphen"/>vented.</p>
+            <p n="2">2dly. <hi>That Cloth be viewed in the raw Thred, then in the water to be measur'd, and also after rowed and shorn and lastly when dyed if well done.</hi>
+            </p>
+            <p>
+               <hi>Clochester Bayes</hi> have the like view already on them by Act of Parliament, why not upon all o<g ref="char:EOLhyphen"/>ther Woollen Manufactures since it succeeds so well there. The view in the water as to fize is by Statutes 25. <hi>E.</hi> 3. <hi>c.</hi> 1.27. <hi>E. c.</hi> 4.17. <hi>R.</hi> 2 <hi>c.</hi> 2.11. <hi>H.</hi> 6. <hi>c.</hi> 9. The Cloth-workers view is no new thing for the Act 5 and 6. <hi>E.</hi> 6. impowers Mayors, <hi>&amp;c.</hi> to appoint Searchers and put their Seals to Cloth; yet that has not been effectual by other business no Salaries and often change but is an evident Argument why there should be Commissioners whose particular care it would constantly be that the Woollen Manufactures be improv'd: and though it may be said the corrup<g ref="char:EOLhyphen"/>tion of Officers may defeat the good thereby expected, yet that is an Argument equal against the best Constitutions; but there is none against the number of them, since the small Duty to be laid in this Bill will maintain every body concern<g ref="char:EOLhyphen"/>ed, as not to be the least burthen to any in the Country, and the Commissioners will on Com<g ref="char:EOLhyphen"/>plaint punish any Oppression, <hi>&amp;c.</hi> Committed by any of their Officers, besides the said Duty laid upon the four several Workers concerned about Cloth is easy instead of the Aulnage and all other Charges which now do lye much heavier on it, as Aulnage 2 and 4 <hi>d.</hi> and half <hi>d.</hi> for measuring the Corporation seal 2 <hi>d.</hi> Inpo siti<g ref="char:EOLhyphen"/>ons by Companies 22 <hi>d.</hi>
+            </p>
+            <p n="3">3d. <hi>Penalty on each of the said Views for any fault in any of them.</hi>
+            </p>
+            <p>Because the Weaver and Cloth-worker usually work by the Yard, the penalty on them is by the Yard; sometimes and in some place; he may w<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="4" facs="tcp:172336:3"/>well and others ill, and for that only which he does ill, he is to be punished. The Fuller and Dyer are paid by the Peice, so are their faults punisht by the peice; but the Cloth is not to be forfeited, only a small fine paid; and the fault markt on the Seal.</p>
+            <p n="4">4th. <hi>A Seal fixt to Cloth shewing truth or false<g ref="char:EOLhyphen"/>ty in each of the occasions of viewing it.</hi>
+            </p>
+            <p>This prevents the buyers being cheated in any of the above Particulars, and therefore a Penalty for taking off any of the said Seals.</p>
+            <p n="5">5th. <hi>A view to be on all Wool, Wosted and Yarn, before expos'd to Sale to see it be Merchantable.</hi>
+            </p>
+            <p>To secure that neither buyer nor seller impose on each other.</p>
+            <p n="6">6th. <hi>A Statute for length and breadth of new Draperies as</hi> Spanish <hi>Cloth.</hi>
+            </p>
+            <p>To prevent Clothiers making of them <hi>ad libi<g ref="char:EOLhyphen"/>tum</hi> as they now do, they are made sometimes from 28 to 36 yards long see 130 page of the Book of Rates.</p>
+            <p n="7">7th. <hi>Power in Commissioners for future new in<g ref="char:EOLhyphen"/>vented Draperies as to length, breadth and weight.</hi>
+            </p>
+            <p>That they with advice of Clothiers, may set such Standards thereunto, as may be most for the good of the Woollen Manufacture to humour such Markets as Merchants think beneficial.</p>
+            <p n="8">8th. <hi>That no Imposition be laid by Companies on the Woollen Manufactures.</hi>
+            </p>
+            <p>They'l say they have a Patent so to do, but is not Trade injured thereby, for so Taxing Cloth makes it dearer abroad, 22 <hi>d.</hi> on a long Cloth and 20 <hi>d.</hi> on a short by the <hi>Hamborough</hi> Company 12 <hi>d.</hi> on every <hi>Spanish</hi> Cloth and 6<hi>d.</hi> on a Searge; and other Companies do the like, laying Imposi<g ref="char:EOLhyphen"/>tions on Woollen Manufactures which is against Law, and inhances the price, which would not be if the Taxes were laid on the Members, and not on the Manufacture; as other Companies in <hi>London</hi> do.</p>
+            <p n="9">9th. <hi>That no Trading Companies hinder their Members to Trade out of their Mart Towns.</hi>
+            </p>
+            <p>This hinders the vent of Cloth, <hi>&amp;c.</hi> in such abundance as if their Members might reside with it at Princes Courts in <hi>Germany,</hi> as the <hi>Hollanders</hi> and <hi>French</hi> do, and in great Cities, for Cloth being brought in sight, often draws in buyers that would not unless its goodness were extraor<g ref="char:EOLhyphen"/>dinary, go far to seek it. They might regulate and govern their Members, as well out of as in the Marts Towns. They will say their con<g ref="char:EOLhyphen"/>tracts with such Towns hinders, which being but the nature of private Contracts, and being found prejudicial to the Public, ought not to be kept: and if those Towns take away the Priviledges they have granted to them, so may the Govern<g ref="char:EOLhyphen"/>ment here take away the Priviledges of the Hans Towns injoyed at the still Yard in <hi>London.</hi>
+            </p>
+            <p n="10">10th. <hi>Customs to be on Calicoes, raw and wrought Silts from the</hi> Indies <hi>and other places, as they may bear like rate with raw Silk from</hi> Turky, <hi>and Lin<g ref="char:EOLhyphen"/>nen from</hi> Germany.</p>
+            <p>We are forced to take raw Silks, <hi>&amp;c.</hi> from <hi>Turky</hi> in return for Cloth, and the throwing of it here does not only imploy Thousands of Poor, and Sea<g ref="char:EOLhyphen"/>mens Wives; but also wrought Silks made here might if hereby incouraged come to be a good Exporting Commodity: In reason it follows that at least raw Silks and wrought from <hi>Indies</hi> and <hi>France</hi> pay such Custom as to make them equivalent in price when thrown (for they are now thrown cheaper then <hi>Turky</hi> Silk) to what is return'd us for Cloth from <hi>Turky</hi> in Silk, and from <hi>Germany</hi> in Linnen; and if we do not contrive this way to incourage the <hi>German</hi> Poor in making of Linnen, they'l not quit, but improve in their way of making Woollen Cloth, as they already do in <hi>Silecia</hi> of a courser sort.</p>
+            <p n="11">11th. <hi>Clothiers to Weave Christian and Sirname on Cloths.</hi>
+            </p>
+            <p>To make an emulation when the Eminent Clothiers name is called for at Foreign Markets, they'l yearly advance to higher perfections in the Manufacture, especially if a prize or reward were to be given to him of every County that show to the Searchers and Commissioners approbation the best and finest peice of Cloth yealy. Also by this Article the Commissioners may give a guess by inspecting the Names on Cloth, before Ex<g ref="char:EOLhyphen"/>portation, if their Searchers do their Duty in the Country; and also see which Clothiers are notorious for making bad Cloths, <hi>&amp;c.</hi>
+            </p>
+            <p n="12">12th. <hi>Clothiers not to dispose of Cloths,</hi> &amp;c. <hi>but at open Fair and Market.</hi>
+            </p>
+            <p>This is to prevent prejudice to Shop-keepers and Retailers, and that bad Ware be not vended by Haglers up and down; who by under rates inveagle buyers, before the good Cloths brought forth.</p>
+            <p n="13">13th. <hi>All Materials imported serving the Wool<g ref="char:EOLhyphen"/>len Manufactures be Custom free but if again Exported to pay the greater Duty.</hi>
+            </p>
+            <p>This will render our Cloth cheaper and what's made in other Countries dearer by the Duty outwards on Materials, 13 and 14 <hi>Car.</hi> 2. <hi>c.</hi> 19. Foreign Wool-cards. Card-wyer or Iron-wyer forbidden to be Imported: so they are not to come in free by this Act.</p>
+            <p n="14">14th. <hi>Cloth,</hi> &amp;c. <hi>Sold the buyers are to pay only Water Measure.</hi>
+            </p>
+            <p>Thus what advantage is in the length of the Cloth by straining, will be to the buyer, for which reason the sellers Interest will not be to injure the Cloth by stretching of it: and the Cloth in a common way of Dressing, will come out more then the accustomed yard of allowance, besides the Clothier and Buyer thus are at cer<g ref="char:EOLhyphen"/>tainty what they sell and buy, and what to be paid; and this will be an Incouragement of some advantage to the Merchant that exports Cloth the thus exceeds the Water Measure; which must appear on a Seal fixt to the Cloth.</p>
+            <p n="15">
+               <pb n="5" facs="tcp:172336:3"/> 15th. <hi>Imported Goods which are the Effects and Products of our Woollen Manufactures, Lead, Tyn, Coals and Fish of</hi> English <hi>ketching, shall have the benefit of the second, eighth and seventeenth Rules in the Book of Rates allowed them otherwise not.</hi>
+            </p>
+            <p>This Allowance given upon Imported Goods which the Merchant after would Export, and which appeared to have been at first brought in, as the fruits of the Woollen and other our native Commodities returned hither: will doubtless oblige the Merchant for his own Interest being thus thereunto incouraged; to carry out our Cloths to Foreign Markets as much as he can possibly vend there: And the excellency of the Cloth hereafter above what it was will make all Nations eager to buy it. Then all Princes will lessen their Taxes on so necessary and so im<g ref="char:EOLhyphen"/>prov'd a Commodity; but if they do not we may easily bring them to it by laying higher Duties on theirs. The <hi>East-India</hi> Company may com<g ref="char:EOLhyphen"/>plain and our <hi>West-India</hi> Plantations, but the <hi>East-India</hi> Company are answered, for they may Trade with <hi>Japan,</hi> where the Woollen Manu<g ref="char:EOLhyphen"/>factures are taken off: and then they'l have those Benefits, and since all others are forbid to Trade, and they have the sole Monopoly of those Trades and benefit to themselves; let them give a great<g ref="char:EOLhyphen"/>er Custom where 'tis now but small, that the King may have some more of the vast Advan<g ref="char:EOLhyphen"/>tages as a hundred <hi>per Cent.</hi> which they make. If they should have the benefit of those Rules then all our Plantations will be filled with Foreign wrought Silks, which will be great prejudice to our own Silk Broad-weavers of <hi>London:</hi> which up<g ref="char:EOLhyphen"/>on Exportation pay Subsidy outward one Peny <hi>per</hi> Pound: <hi>Quaere</hi> by the Bill for Tunnage and Poun<g ref="char:EOLhyphen"/>dage whether that Clause might not yet be mend<g ref="char:EOLhyphen"/>ed <hi>(i. e.)</hi> that all wrought Silks Imported if Ex<g ref="char:EOLhyphen"/>ported shall go out Custom free and all Duties paid upon it be repaid.</p>
+            <p n="16">16th. <hi>A new W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aping Cloth and Tilleting hereby appointed for to serve in Packing and Wrapping all Woollen Manufactures in lieu, of</hi> French <hi>Linnen and Canvas.</hi>
+            </p>
+            <p>All Objections will be answered in this, so much Money will be saved now goes into <hi>Normandy,</hi> and the packing stuff design'd will be as light, cheap, &amp; stronger, keep Wool dry and last longer dry then Linnen. The tilleting stuff when well Woven and scoured, will keep out the Dirt, Worms and Moth, better then the <hi>Buckerham;</hi> the Merchants now use to wrap the Cloths in that go abroad: And may as well be adorn'd with any print on the head end and writ upon: But whereas when he sells the Cloth, he used to give away the tillet as nothing worth, this may be sold, for it will be of use: Be<g ref="char:EOLhyphen"/>sides Lambs Wool and Flocks is used for abbing of this tilletting stuff, which will make such consumpti<g ref="char:EOLhyphen"/>on of that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ort of Wool; as it need not be used in Statute Cloth 4. <hi>E.</hi> 4. and also more Wool sold, the chain of this stuff is to be of long Wool, of which great quantities will be consumed.</p>
+            <p n="17">17th, <hi>Care for the Towns of</hi> Colchester, &amp;c. <hi>and West-riding of</hi> Yorkshire <hi>to have the benefit of Acts made for their Woollen Manufactures.</hi>
+            </p>
+            <p>These Corporations have Masters, Wardens and Assistants, which is in effect what is desired by Commissioners and Searchers, and may be per<g ref="char:EOLhyphen"/>formed more usefully, and with less corruption, and moderate fines put upon faults committed; they are paid for a search, but this Bill does not inter<g ref="char:EOLhyphen"/>rupt their Proceedings only to see they continue to act accordingly: And only give an account what they search, that thereby may be known what is yearly made.</p>
+            <p n="18">18th, <hi>Small Duty paid on the</hi> 4 <hi>foresaid several views of Cloth,</hi> &amp;c. <hi>to maintain the charge of Com<g ref="char:EOLhyphen"/>missioners, and all Officers concerned in the said view<g ref="char:EOLhyphen"/>ing and looking after Woollen Manufactures.</hi>
+            </p>
+            <p>This is but such a Rate as Corporations do now take, except the Cloth-workers and Dyers search; 'tis reasonable first the King may not be a looser either by paying the said Officers, or in his Customs by this Public Good: Besides consider the 4 several People this Duty is divided amongst to be paid, will be infinite gainers by giving so incon<g ref="char:EOLhyphen"/>siderable a Sum to support constant Overseers, to secure that such Worker about Cloth do his part to make it good, that their Trade be thriving and incouraged both at home and abroad; also hereby they will pass through their several hands many more Clothes a Year, and they made much better and cheaper thereby.</p>
+            <p n="19">19th, <hi>Aulnage duty put down because one of the foresaid views does the same thing, and a compensation to the Dutchess of</hi> Richmond, <hi>and to the Farmers if they appear wronged.</hi>
+            </p>
+            <p>That no body receive any prejudice hereby.</p>
+            <p n="20">20th, <hi>None concerned in the foresaid Offices, but such as are fit and qualified according to Law.</hi>
+            </p>
+            <p>That they be not lyable by ignorance or corrup<g ref="char:EOLhyphen"/>tion to commit faults, which the Commissioners will severely punish; so as the Clothiers and Coun<g ref="char:EOLhyphen"/>try shall ever have speedy redress against them.</p>
+            <p n="21">21st, <hi>This Cypher</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>to be on Cloth for the fu<g ref="char:EOLhyphen"/>ture to perpetuate the Reign, this past in and distinguish Clothes since made from former ones.</hi>
+            </p>
+            <p n="22">22d, <hi>That who have Wollen wares by them, do give an account after the passing this Act what in quanity and quality</hi>
+            </p>
+            <p>To see what remains of old store, that the Com<g ref="char:EOLhyphen"/>missioners may judge of the future increase of the Wollen Trade, and be a check upon all the four views; that they let none pass, made false without marking them.</p>
+            <p n="23">
+               <pb facs="tcp:172336:4"/> 23d, <hi>That the Wages for under poor <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> half Year with regard to scarcity and plenty, set by the Justices of the Sessions.</hi>
+            </p>
+            <p>For Labourers <hi>&amp;c.</hi> of a different labor from this 'twas so appointed 5th of <hi>Eliz.</hi> why not with more reason in this when the Weaver, Cloth-worker and Dyer being at a certainty what they must have for their labor, will chearfully pay for the view and search above exprest when they are no longer opprest by the Clothier or paid in Goods instead of Money; and often beat down to take too little in reason for their pains. Also this will make it that the poor Clothier may get Workmen, as ea<g ref="char:EOLhyphen"/>sily as the rich; for lack of which he is often forced to cease the Trade, while the rich Engross all the Workers.</p>
+            <p n="24">24th, <hi>Higher Custom on</hi> Irish <hi>Frees;</hi> Scotch <hi>Linnen and Coals till the</hi> Scotch <hi>take off the Prokibi<g ref="char:EOLhyphen"/>tion on our Woollen Manufactures.</hi>
+            </p>
+            <p>The <hi>Scotch</hi> bought formerly great quantities of our Cloth, and now none permitted to be im<g ref="char:EOLhyphen"/>ported thither; though much of their Linnen and Coals does come hether.</p>
+            <p n="25">25th. <hi>No Wool, Fullers Earth</hi> &amp;c. <hi>to be exported.</hi>
+            </p>
+            <p>The benefit of which will be evident if the Re<g ref="char:EOLhyphen"/>gifter of Wool herein be as it is thought so exact, that hardly a lock can be disposed, but so as the Commissioners will be able to guess nearly where and how Manufactured: Since 'tis hardly possible that any combination can be where the chec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s are so many and so strict a view on each other and on the Wool, and in such hands as cannot combine together to elude, but the Improvement of the Cloths will occasion so much a greater consumption of Wool, that it will hear a better price here then when Transported, and that will make none after a while attempt to Export it.</p>
+            <p n="26">26th, <hi>No Woolsold but at Fair and Market.</hi>
+            </p>
+            <p>'Tis according to an old Law 27 <hi>E.</hi> 3. <hi>c.</hi> 1. 22 <hi>d.</hi> to sell at certain Market Towns openly 6 <hi>H.</hi> 8. <hi>c.</hi> 8. no Person shall buy any coloured Wool or Yearn but at open Market 33 <hi>H.</hi> 8. <hi>c.</hi> 16. none to buy Yarn but at open Market, and that by Weavers and Artificers. If coloured Wool and Yarn, why not Wool that is Raw.</p>
+            <p n="27">27th. <hi>No Wool Conveyed from place to place, with<g ref="char:EOLhyphen"/>out the Kings Weighers certificate.</hi>
+            </p>
+            <p>This to prevent the chief way they now have of conveying it abroad, by carrying of it with a strong Guard from place to place, till at length it get insensibly and undiscerned to the Port and is thence Exported. For by this certificate it is traced from the first remove, and by certificates where ever it goes, watched so as it can hardly escape without the knowledge of the Officers who will stop it.</p>
+            <p n="28">28th, <hi>To prevent Monopolizing Wool, the price to be set with Advice of the Clothiers at the Quarter-Sessions.</hi>
+            </p>
+            <p>Which will make it as cheap to the Poor as to the Rich Clothiers, when buyer and seller know what must be paid for Wool, a great deal of delay and uncertainty in bargaining will be avoided; and the Sale of Wool be the quicker, and be then every Mans Money like Gold and Silver at a cer<g ref="char:EOLhyphen"/>tain Standard. Besides, prevent the Clothiers forcing the Grower to part with his Wool at what low rate he and his Fellow Trades-men have agreed to give. The Gentry thus consulting the Clo<g ref="char:EOLhyphen"/>thier in the Face of the Country, are unlikely to put any unreasonable price: But this will be a just <hi>medium</hi> between the owners of Wool and Workers thereof, and increase the number of Clothiers when all can have Wool at the same price.</p>
+            <p n="29">29th. <hi>Importers of Wool give the Commissioners account what they import.</hi>
+            </p>
+            <p>By this the Commissioners will know what's Yearly Imported, and keep an account thereof; by which they may from what is yearly Manu<g ref="char:EOLhyphen"/>factured, find if any of it be otherwise imploy<g ref="char:EOLhyphen"/>ed.</p>
+            <p n="30">30th, <hi>Wool worsted, and Yarn to be sold at Market and Fair, and Weighed by the Kings Weigher.</hi>
+            </p>
+            <p>This is agreeable to the Statute 27 <hi>E.</hi> 3. <hi>C.</hi> 1 and 22d. but if those Towns and Fairs the Par<g ref="char:EOLhyphen"/>liament tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> appoint Wool to be sold in, should have any Grant by Parent to wei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Wool; then the weigher of Wool there shall be sworn to do it as for the King, to have a Beam with his mark: And perform to all Intents and Purposes, as other the Kings Weighers are to do to the Commissi<g ref="char:EOLhyphen"/>oners upon the like penalty for any default. The Weighers are to see Wool, <hi>&amp;c.</hi> be Merchantable and justly weighed between buyer and seller: And that he may Register all, and transmit fair Copies to the Commissioners, all which is to ren<g ref="char:EOLhyphen"/>der it still more difficult to deceive them.</p>
+            <p n="31">31. <hi>Wool sold at certain Towns.</hi>
+            </p>
+            <p>To be named as convenient in all Countries as may be, but at such a distance from the Sea; as may make it uneasie to be transported.</p>
+            <p n="32">32d. <hi>Parson of the Parish give an account of re<g ref="char:EOLhyphen"/>mains of Wool in each Parish to the Commissioners aforesaid.</hi>
+            </p>
+            <p>This will be the exactest Register that can be, of all growing Wool and dead Wool; and easiest executed: Because the Minister does it already in a manner for himself to ascertain what his Tythe is, and why not take a little more trouble to ad<g ref="char:EOLhyphen"/>vance so public a good.</p>
+            <p n="33">33d. <hi>All growers of Wool, and importers to give yearly an account what they have shorn or sold.</hi>
+            </p>
+            <pb n="7" facs="tcp:172336:4"/>
+            <p> This will be another good check to know what is done with Wool.</p>
+            <p n="34">34th, <hi>That Wool buyers may be known to be Workers of what they buy, they must have License to buy the same.</hi>
+            </p>
+            <p>Not to buy Wool without License first obtained seems reasonable, that the Commissioners may take good security, that he who buys Wool do not Engross and turn Merchant of that commodity; but Work it into Manufacture himself: Or else most of the Clothiers would follow only the buying of Wool, and make a Trade of selling it to others, which would lessen the number of Clothiers, and such as would otherwise Manufacture it them<g ref="char:EOLhyphen"/>selves.</p>
+            <p n="35">35th, <hi>None sell Wool but Grower, Importer or Fell-puller.</hi>
+            </p>
+            <p>For by Law none even now ought to retail Wool but <hi>Norwich</hi> and <hi>Hallifax,</hi> who are permit<g ref="char:EOLhyphen"/>ted by Statute so to do 1 <hi>E.</hi> 6. <hi>c.</hi> 6. 2 and 3. and <hi>Ma. c.</hi> 13. and this will prevent the En<g ref="char:EOLhyphen"/>grossing and Monoplizing it as now they do, buy<g ref="char:EOLhyphen"/>ing up great quantities when it bears a low price, which undoes the Grower or Estated Man, when his Tenants can have but little for their Wool: Then after these Retailers have stored up great Magazines of Wool, they can by the scarcity a<g ref="char:EOLhyphen"/>gree to set what price they please upon the Clo<g ref="char:EOLhyphen"/>thier and other Workers of it, which renders our Woollen Manufactures dear; and by their deceitful sorting of it, not to be made good as it would be otherwise.</p>
+            <p n="36">36th, <hi>None to buy Wool Wosted and Yarn, but the Licensed Clothiers and known Workers of it.</hi>
+            </p>
+            <p>They should renew their Licenses every Year for 12d. then they will for their own profit when so on their good behaviour, by being under the constant care and spur of the Commissioners, Ma<g ref="char:EOLhyphen"/>nufacture Cloth, <hi>&amp;c.</hi> as it should be, since they have the means and incouragement thereby to gain the Markets abroad, which will leave little or no wast Wool at the Years end in the King<g ref="char:EOLhyphen"/>dom.</p>
+            <p n="37">37th, <hi>The Wheigher keep a Register of all his do<g ref="char:EOLhyphen"/>ings</hi>
+            </p>
+            <p>Of which he is to transmit a fair Copy quar<g ref="char:EOLhyphen"/>terly to the Commissioners, which will be an ease by the method and order of things to the Com<g ref="char:EOLhyphen"/>missioners, and make their pains the less.</p>
+            <p n="38">38th, <hi>A small rate set for the charge of the Kings Beam and Weighing.</hi>
+            </p>
+            <p>This is no more then as at present in Fairs, when they weigh Wool and pay so much a tod, and have not that justness and security therein between buyer and seller, as this will occasion.</p>
+            <p n="39">39th, <hi>This Act be read yearly in the Parish Chur<g ref="char:EOLhyphen"/>hes to promulge it.</hi>
+            </p>
+            <p n="40">40th, <hi>All Penalties to be levyed by distress upon the Commissioners Order.</hi>
+            </p>
+            <p>For unless the levying of Penalties and Duties (which are the chief obligation to cause Men to apply themselves to the several parts of the Wool<g ref="char:EOLhyphen"/>en Manufactures, according to the Commissioners directions) be not to be got up in a very easie speedy manner; all the other Branches of this Bill, will be ineffectual to the Public Good to which it tends.</p>
+            <p>If these reasons aforementioned are not all de<g ref="char:EOLhyphen"/>monstrative, yet probably they may open a way to have a Law passed, that may be of great benefit to this Kingdom; in the full Improvement of the Woollen Manufactures thereof. All which is hum<g ref="char:EOLhyphen"/>bly submitted to the Wisdom of the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
